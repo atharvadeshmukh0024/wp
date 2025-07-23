@@ -52,6 +52,15 @@ WordPress Hooks & Template Tags
 
 🧩 Category Filter Homepage
 
+LinkedIn
+
+📌 Notes
+Tested locally using LocalWP
+
+Designed to demonstrate hands-on skills in plugin and theme development
+
+
+
 
 🙋‍♂️ Author
 Atharva Deshmukh
