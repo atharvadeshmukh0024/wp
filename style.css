@@ -1,0 +1,30 @@
+
+.wpqv-share-buttons {
+    position: fixed;
+    top: 40%;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 9999;
+}
+
+.wpqv-button {
+    background: #0073aa;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px 0 0 4px;
+    font-family: sans-serif;
+    font-size: 14px;
+    transition: background 0.3s ease;
+}
+
+.wpqv-wa { background: #25D366; }
+.wpqv-twitter { background: #1DA1F2; }
+.wpqv-linkedin { background: #0077B5; }
+
+.wpqv-button:hover {
+    opacity: 0.8;
+}
