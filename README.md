@@ -1,5 +1,5 @@
-WPQuickView – WordPress Enhancement Project
-WPQuickView is a WordPress project built to improve blog interactivity and user experience by combining a custom plugin with a lightweight theme customization.
+WP – WordPress Enhancement Project
+WP is a WordPress project built to improve blog interactivity and user experience by combining a custom plugin with a lightweight theme customization.
 
 It includes:
 
