@@ -1,70 +1,59 @@
-# WPQuickView – WordPress Enhancement Project
+WPQuickView – WordPress Enhancement Project
+WPQuickView is a WordPress project built to improve blog interactivity and user experience by combining a custom plugin with a lightweight theme customization.
 
-WPQuickView is a WordPress project consisting of:
-1. A custom plugin for floating social share buttons
-2. A theme tweak that adds category-based blog post filtering on the homepage
+It includes:
 
-These features demonstrate hands-on skills in WordPress plugin development, PHP templating, and WP_Query.
+A custom plugin for floating social share buttons
 
----
+A homepage enhancement for category-based blog post filtering
 
-## 📦 Plugin: Floating Social Share Buttons
+These features highlight practical experience with WordPress plugin development, PHP templating, and WP_Query.
 
-A custom WordPress plugin that adds floating social share buttons (WhatsApp, Twitter, LinkedIn) to single blog posts. It enhances post shareability and user engagement.
+📦 Plugin: Floating Social Share Buttons
+A custom WordPress plugin that adds floating social share buttons (WhatsApp, Twitter, LinkedIn) to individual blog posts—boosting engagement and ease of sharing.
 
-### 🔧 Features
-- 🟢 WhatsApp, 🔵 Twitter, 🔷 LinkedIn buttons
-- Floating on-scroll visibility
-- Automatically pulls current post URL and title
-- Clean, responsive CSS
+🔧 Features
+🟢 WhatsApp, 🔵 Twitter, 🔷 LinkedIn share buttons
 
----
+Floats and stays visible on scroll
 
-## 🧩 Theme Tweak: Category Filter Homepage
+Auto-detects and uses the current post’s title and URL
 
-This theme tweak adds a filter bar at the top of the homepage that displays category buttons like `[ All ] [ Tech ] [ News ]`. Clicking a button filters posts using `WP_Query`.
+Mobile-responsive with clean CSS
 
-### 🔧 Features
-- Dynamically generated category buttons
-- Filters posts using query string (e.g., `?cat=3`)
-- Works with classic themes like Twenty Twenty-One
-- Clean, styled layout
+🧩 Theme Tweak: Category Filter on Homepage
+A theme-level customization that introduces a dynamic category filter on the homepage. Visitors can filter posts by clicking category buttons like [ All ] [ Tech ] [ News ], improving blog navigation.
 
----
+🔧 Features
+Dynamic category buttons generated via PHP
 
-## 🛠 Tech Stack
+Uses query string filtering with WP_Query
 
-- WordPress CMS
-- PHP
-- CSS
-- WP_Query
-- Classic Theme Templates
-- WordPress Hooks & Template Tags
+Compatible with classic themes (e.g., Twenty Twenty-One)
 
----
-## 🖼️ Demo Screenshots
+Neatly styled UI integrated into theme layout
 
-### 🔌 Floating Share Buttons
-![Share Buttons Demo](./Screenshots/share-buttons-demo.png)
+🛠 Tech Stack
+WordPress CMS
 
----
+PHP
 
-### 🧩 Category Filter Homepage
-![Category Filter Demo](./Screenshots/category-filter-demo.png)
+CSS
 
----
+WP_Query
 
-## 🙋‍♂️ Author
+Classic Theme Templates
 
-**Nakshatra Deshmukh**  
-Final-year Computer Engineering student | Aspiring Developer | Ex-Intern @Accenture & EstherDataLabs
+WordPress Hooks & Template Tags
 
-[GitHub](https://github.com/NakshatraDeshmukh) • [LinkedIn](https://linkedin.com/in/nakshatra-deshmukh)
+🖼️ Demo Screenshots
+🔌 Floating Share Buttons
 
----
 
-## 📌 Note
+🧩 Category Filter Homepage
 
-- Tested locally using LocalWP
-- Designed to demonstrate plugin + theme development skills 
 
+🙋‍♂️ Author
+Atharva Deshmukh
+IT Engineering Student | Open-Source Enthusiast | Cloud & WordPress Developer
+GitHub • LinkedIn
